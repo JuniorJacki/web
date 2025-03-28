@@ -13,9 +13,11 @@
     - key: Current Project
       value: Modernized Roleplay [Moro]
       url: https://github.com/JuniorJacki/Moro
-    - value: JavaSQL an easy to implement SQL Client
+    - key: JavaSQL
+      value: A easy to implement SQL Client
       url: https://github.com/JuniorJacki/JavaSQL
-    - value: EV3 Controller
+    - key: EV3 Controller
+      value: Desktop Controller via Bluetooth
       url: https://github.com/JuniorJacki/EV3-Controller
 - key: IDE, Editors & Tools
   value:
@@ -28,11 +30,32 @@
     - VS Code
     - Postman
     - Beekeeper
-- key: Programming Languages
+- key: Languages
   value:
-    - Java
-    - Python
-    - C#
+    - key: Programming
+      values:
+        - Java
+        - C#
+        - Python
+        - ABAP
+    - key: Database
+      value: SQL
+    - key: Human
+      values:
+        - Deutsch (German) 
+        - English
+- key: Frameworks & Dependencies
+  value:
+    - key: Windows
+      value:
+        - WPF (Windows Presentation Foundation)
+        - WinForms (Windows Forms)
+    - key: Minecraft
+      value:
+        - Bukkit
+        - Spigot
+        - Paper
+        - Fabric
 - key: Loved Games
   value:
     - key: Minecraft
