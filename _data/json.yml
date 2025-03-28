@@ -61,7 +61,7 @@
     - key: Minecraft
       value: 
         - Survival
-        - Hypixel Bedwars
+        - value: Hypixel Bedwars
           url: https://hypixel.fandom.com/wiki/Bed_Wars
     - key: Satisfactory
       value: With Mods
