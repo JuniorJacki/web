@@ -35,11 +35,13 @@
     - C#
 - key: Loved Games
   value:
-    - value: Minecraft
-      - value: Survival
-      - value: Hypixel Bedwars
-      url: https://hypixel.fandom.com/wiki/Bed_Wars
-    - value: Satisfactory
+    - key: Minecraft
+      value: 
+        - value: Survival
+        - value: Hypixel Bedwars
+          url: https://hypixel.fandom.com/wiki/Bed_Wars
+    - key: Satisfactory
+      value: With Mods
 - key: Contact
   value:
     - key: Email
