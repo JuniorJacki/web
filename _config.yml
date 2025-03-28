@@ -1,6 +1,18 @@
-theme: hacked-jekyll
 title: Homepage
-description: JuniorJacki's Homepage
+baseurl: /home
+url: https://juniorjacki.de
+
+theme: hacked-jekyll
+
+exclude:
+  - LICENSE
+  - README.md
+  - vendor/
+
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+
+sass:
+  sourcemap: never
+  
