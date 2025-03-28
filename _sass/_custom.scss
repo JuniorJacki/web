@@ -12,12 +12,14 @@ main {
   max-width: 1200px;
   margin: 0 auto;
   padding: 20px;
+  padding-top: 40px;
 }
 
 .my.ms {
   width: 100%;
   margin-bottom: 1rem;
   display: block;
+  overflow-x: hidden;
 }
 
 .my.ms p.ms {
@@ -27,6 +29,7 @@ main {
 
 .key, .value {
   word-wrap: break-word;
+  white-space: normal;
 }
 
 .my.ms {
@@ -46,6 +49,7 @@ main {
   main {
     width: 95%;
     padding: 15px;
+    padding-top: 30px;
   }
   .my.ms p.ms {
     margin-left: 1.5rem;
@@ -59,6 +63,7 @@ main {
   main {
     width: 100%;
     padding: 10px;
+    padding-top: 20px;
   }
   .my.ms p.ms {
     margin-left: 1rem;
