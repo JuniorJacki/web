@@ -33,17 +33,12 @@
 - key: Languages
   value:
     - key: Programming
-      value:
-        - Java
-        - C#
-        - Python
-        - ABAP
+      value: Java , C# , Python , ABAP
     - key: Database
       value: SQL
     - key: Human
-      value:
-        - Deutsch (German) 
-        - English
+      value: German , English
+        
 - key: Frameworks & Dependencies
   value:
     - key: Windows
