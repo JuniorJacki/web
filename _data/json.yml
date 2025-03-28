@@ -1,14 +1,22 @@
 - key: Name
   value:
     - JuniorJacki
-    - Jacki
     - JuniorJack
+    - Jacki
+    - JuniorJack 2067
   typed: true
 - key: Bio
   value:
-    - Young Developer
     - Coding Enthusiast
-  typed: true
+- key: Projects
+  value:
+    - key: Current Project
+      value: Modernized Roleplay [Moro]
+      url: https://github.com/JuniorJacki/Moro
+    - value: JavaSQL an easy to implement SQL Client
+      url: https://github.com/JuniorJacki/JavaSQL
+    - value: EV3 Controller
+      url: https://github.com/JuniorJacki/EV3-Controller
 - key: IDE, Editors & Tools
   value:
     - IntelliJ
@@ -25,10 +33,17 @@
     - Java
     - Python
     - C#
+- key: Loved Games
+  - value: Minecraft
+    - value: Survival
+    - value: Hypixel - Bedwars
+      url: https://hypixel.fandom.com/wiki/Bed_Wars
+  - value: Satisfactory
 - key: Contact
   value:
     - key: Email
       value: me@juniorjacki.de
+      url: url: "mailto:me@juniorjacki.de"
     - key: Discord
       value: juniorjacki
       url: https://discordapp.com/users/713428837240668212
