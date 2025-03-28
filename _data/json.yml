@@ -42,20 +42,14 @@
 - key: Frameworks & Dependencies
   value:
     - key: Windows
-      value:
-        - WPF (Windows Presentation Foundation)
-        - WinForms (Windows Forms)
+      value: WPF (Windows Presentation Foundation) , WinForms (Windows Forms)
     - key: Minecraft
-      value:
-        - Bukkit
-        - Spigot
-        - Paper
-        - Fabric
+      value: Bukkit , Spigot , Paper , Fabric
 - key: Loved Games
   value:
     - key: Minecraft
       value: 
-        - Survival
+        - value: Survival
         - value: Hypixel Bedwars
           url: https://hypixel.fandom.com/wiki/Bed_Wars
     - key: Satisfactory
