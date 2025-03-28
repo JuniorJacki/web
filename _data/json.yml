@@ -46,7 +46,7 @@
   value:
     - key: Email
       value: me@juniorjacki.de
-      url: url: "mailto:me@juniorjacki.de"
+      url: "mailto:me@juniorjacki.de"
     - key: Discord
       value: juniorjacki
       url: https://discordapp.com/users/713428837240668212
