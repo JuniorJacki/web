@@ -20,16 +20,7 @@
       value: Desktop Controller via Bluetooth
       url: https://github.com/JuniorJacki/EV3-Controller
 - key: IDE, Editors & Tools
-  value:
-    - IntelliJ
-    - PyCharm
-    - WebStorm
-    - CLion
-    - Atom
-    - BlueJ
-    - VS Code
-    - Postman
-    - Beekeeper
+  value: IntelliJ , PyCharm , CLion , WebStorm , Atom , BlueJ , VS Code , Postman , Beekeeper
 - key: Languages
   value:
     - key: Programming
@@ -38,7 +29,6 @@
       value: SQL
     - key: Human
       value: German , English
-        
 - key: Frameworks & Dependencies
   value:
     - key: Windows
