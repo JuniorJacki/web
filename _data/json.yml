@@ -33,7 +33,7 @@
 - key: Languages
   value:
     - key: Programming
-      values:
+      value:
         - Java
         - C#
         - Python
@@ -41,7 +41,7 @@
     - key: Database
       value: SQL
     - key: Human
-      values:
+      value:
         - Deutsch (German) 
         - English
 - key: Frameworks & Dependencies
@@ -60,8 +60,8 @@
   value:
     - key: Minecraft
       value: 
-        - value: Survival
-        - value: Hypixel Bedwars
+        - Survival
+        - Hypixel Bedwars
           url: https://hypixel.fandom.com/wiki/Bed_Wars
     - key: Satisfactory
       value: With Mods
