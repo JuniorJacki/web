@@ -1,3 +1,34 @@
 - key: Name
-  value: JuniorJacki
-
+  value:
+    - JuniorJacki
+    - Jacki
+    - JuniorJack
+  typed: true
+- key: Bio
+  value:
+    - Young Developer
+    - Coding Enthusiast
+  typed: true
+- key: IDE, Editors & Tools
+  value:
+    - IntelliJ
+    - PyCharm
+    - WebStorm
+    - CLion
+    - Atom
+    - BlueJ
+    - VS Code
+    - Postman
+    - Beekeeper
+- key: Programming Languages
+  value:
+    - Java
+    - Python
+    - C#
+- key: Contact
+  value:
+    - key: Email
+      value: me@juniorjacki.de
+    - key: Discord
+      value: juniorjacki
+      url: [https://discordapp.com/users/713428837240668212]
