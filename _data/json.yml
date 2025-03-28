@@ -34,11 +34,12 @@
     - Python
     - C#
 - key: Loved Games
-  - value: Minecraft
-    - value: Survival
-    - value: Hypixel - Bedwars
+  value: 
+    - key: Minecraft
+      - value: Survival
+      - value: Hypixel - Bedwars
       url: https://hypixel.fandom.com/wiki/Bed_Wars
-  - value: Satisfactory
+    - value: Satisfactory
 - key: Contact
   value:
     - key: Email
