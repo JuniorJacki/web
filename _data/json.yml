@@ -13,6 +13,9 @@
     - key: Current Project
       value: Modernized Roleplay [Moro]
       url: https://github.com/JuniorJacki/Moro
+    - key: 4WinControl
+      value: Windows program for the game Four Connect with its own algorithm and physical gameplay in combination with a Lego hub
+      url: https://github.com/JuniorJacki/4WinControl
     - key: JavaSQL
       value: A easy to implement SQL Client
       url: https://github.com/JuniorJacki/JavaSQL
