@@ -10,6 +10,9 @@
     - Coding Enthusiast
 - key: Projects
   value:
+    - key: RemoteBrick
+      value: A Java 21+ API for full LEGO® Inventor Hub (51515) control via Bluetooth Classic on Windows
+      url: https://github.com/JuniorJacki/RemoteBrick
     - key: Current Project
       value: Modernized Roleplay [Moro]
       url: https://github.com/JuniorJacki/Moro
@@ -27,7 +30,7 @@
 - key: Languages
   value:
     - key: Programming
-      value: Java , C# , Python , ABAP
+      value: Java , C# , CPP, Python , ABAP
     - key: Database
       value: SQL
     - key: Human
